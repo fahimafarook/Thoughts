@@ -1,3 +1,5 @@
+//implementation of arrays.sort function in java
+
 import java.util.Scanner;
 public class sorting{
     static  String arr[];
