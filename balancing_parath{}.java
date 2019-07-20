@@ -32,7 +32,7 @@ public class MyClass {
         if(current==0)
         {
         System.out.println("blanced and longest length is");
-        System.out.print(max-1);
+        System.out.print(max-1);a
         }
         else 
         {
